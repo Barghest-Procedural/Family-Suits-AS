@@ -11,44 +11,46 @@
 {
   "unlockableSuits": [
     {
-      "suitID": "0_Red_Suit",
-      "suitName": "Red Suit",
-      "suitTexture": "0_Red_Suit.png"
+      "suitID": "0_Barghest_Suit_Texture",
+      "suitName": "Barghest Suit",
+      "suitTexture": "Barghest_Suit_Texture.png"
     },
     {
-      "suitID": "1_Yellow_Suit",
-      "suitName": "Yellow Suit",
-      "suitTexture": "1_Yellow_Suit.png"
+      "suitID": "1_The_Bee_Suit_Texture",
+      "suitName": "The Bee Suit",
+      "suitTexture": "The_Bee_Suit_Texture.png"
     },
     {
-      "suitID": "2_Green_Suit",
-      "suitName": "Green Suit",
-      "suitTexture": "2_Green_Suit.png"
+      "suitID": "2_HoneyBun_Suit_Texture",
+      "suitName": "HoneyBun Suit",
+      "suitTexture": "HoneyBun_Suit_Texture.png"
     },
     {
-      "suitID": "3_Blue_Suit",
-      "suitName": "Blue Suit",
-      "suitTexture": "3_Blue_Suit.png"
+      "suitID": "3_Cluster-Shark_Texture",
+      "suitName": "Cluster-Shark",
+      "suitTexture": "Cluster-Shark_Texture.png"
     },
     {
-      "suitID": "4_Purple_Suit",
-      "suitName": "Purple Suit",
-      "suitTexture": "4_Purple_Suit.png"
+      "suitID": "4_King_Duct_tapped_Suit_Texture",
+      "suitName": "King's Duct tapped Suit",
+      "suitTexture": "King_Duct_tapped_Suit_Texture.png"
     },
     {
-      "suitID": "5_Pink_Suit",
-      "suitName": "Pink Suit",
-      "suitTexture": "5_Pink_Suit.png"
+      "suitID": "5_The_Mute_Wolf_Suit_Texture_V3",
+      "suitName": "The Mute Wolf Suit",
+      "suitTexture": "The_Mute_Wolf_Suit_Texture_V3.png"
     },
     {
-      "suitID": "6_White_Suit",
-      "suitName": "White Suit",
-      "suitTexture": "6_White_Suit.png"
-    },
+      "suitID": "6_The_Old_Man_Suit_Texture",
+      "suitName": "The Old Man Suit",
+      "suitTexture": "The_Old_Man_Suit_Texture.png"
+    }
+/*
     {
       "suitID": "7_Black_Suit",
       "suitName": "Black Suit",
       "suitTexture": "7_Black_Suit.png"
     }
+*/
   ]
 }
