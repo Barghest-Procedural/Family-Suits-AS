@@ -17,7 +17,7 @@ using UnityEngine;
  *   
  *  discord: the_shadow_wizard
  */
-namespace AdditionalSuits
+namespace FamilyAdditionalSuits
 {
     //data container for a single suit def
     [Serializable]
@@ -44,9 +44,9 @@ namespace AdditionalSuits
         private static AdditionalSuitsBase Instance;
 
         //mod details
-        private const string modGUID = "ACS.AdditionalSuits";
-        private const string modName = "AdditionalSuits";
-        private const string modVersion = "1.1.1";
+        private const string modGUID = "BM.FamilyAdditionalSuits";
+        private const string modName = "Family Suits AS";
+        private const string modVersion = "1.0.0";
 
         //harmony reference
         private readonly Harmony harmony = new Harmony(modGUID);
